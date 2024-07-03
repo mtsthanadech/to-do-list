@@ -1,5 +1,10 @@
 # to-do-list
 
+## Node version
+```
+Node v14.15.0
+```
+
 ## Project setup
 ```
 yarn install
